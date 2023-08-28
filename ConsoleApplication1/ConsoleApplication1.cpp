@@ -5,6 +5,7 @@
 int main()
 {
 	while (!_kbhit());
+	std::cout << "exit";
 	return 0;
 }
 
